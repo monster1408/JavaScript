@@ -1,1 +1,1 @@
-document.getElementById("codeInput").value;
+code = document.getElementById("codeInput").value;
