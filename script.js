@@ -1,4 +1,4 @@
-code = document.getElementById("codeInput").value;
+let code = document.getElementById("codeInput").value;
 function run(){
   document.getElementById("CodeSspace").innerText = code;
 }
